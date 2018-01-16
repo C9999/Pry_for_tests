@@ -9,7 +9,7 @@ Exemplo:
 platformName = "Android"
 platformVersion = '7.0'
 deviceName = 'D'
-app = "/Users/carlosaraujo/ds/specs-qa/build/apk/app-debug.apk"
+app = "/Users/carlosaraujo/Pry_for_tests/build/apk/app-debug.apk"
 
 Comando para rodar os testes: 
 
@@ -19,4 +19,4 @@ $ bundle exec cucumber -p ios
 
 ## Instalação de dependências e configuração de ambiente 
 
-- TODO
+- TO DO
