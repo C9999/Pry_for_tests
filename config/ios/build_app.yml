@@ -1,0 +1,8 @@
+ carlos:
+  xcworkspace: /Users/carlosaraujo/ds/ios/proj.xcworkspace
+  scheme: projeto-cal
+  sdk_simulator: iphonesimulator
+  sdk_device: iphoneos
+  configuration: Calabash
+  export_path: /Users/carlosaraujo/ds/ios/
+

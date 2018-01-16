@@ -1,0 +1,8 @@
+[caps]
+platformName = "iOS"
+platformVersion = "11.0"
+deviceName = "iPhone 8 Plus"
+browserName = "Safari"
+timeout = "90000"
+
+
